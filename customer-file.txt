@@ -1,0 +1,6 @@
+1	pooja			9876543210	    aurangabad		        pooja76@gmail.com 
+2	pallavi			9175842981	    pune			        pallaviso961@gmail.com 
+3	komal			7789867656	    dehli			        komalnath9@gmail.com 
+4	krushna			9987674534	    mumbai			        skrushna82@gmail.com 
+5	aaditya			8345678934	    jalna			        aadityakumar32@gmail.com 
+7	vyankatesh		7798632456	    ch.sambhajinagar	    vyankydesh14@gmail.com 
